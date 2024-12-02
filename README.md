@@ -1,7 +1,5 @@
 # Amazon Clone Website with CI/CD Pipeline
 
-# Just a change 
-
 ## Aim
 The aim of this project is to build and deploy an Amazon clone website with an automated CI/CD pipeline. This pipeline, integrated with GitHub, is triggered by a webhook and uses Jenkins for continuous integration and Docker for containerized deployment. The website is hosted on an NGINX web server running on an AWS EC2 instance.
 
